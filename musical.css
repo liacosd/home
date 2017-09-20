@@ -1,0 +1,45 @@
+body
+{
+	background-color: lightblue;
+	font-family: Georgia, sans-serif;
+}
+
+h1
+{
+	text-align: center;
+	font-family: Verdana, Georgia, Arial, sans-serif;
+	color: midnightblue;
+	font-size: 32pt;
+	line-height: 18pt;
+	text-shadow: 4px 3px white;
+}
+
+h2
+{
+	color: navy;
+	font-size: 24pt; 
+	line-height: 11pt;
+}
+
+h3
+{ 
+	font-size: 16pt;
+	line-height: 10pt;
+	color: royalblue;
+}
+
+img
+{
+	border-color: white;
+	border-width: small; 
+	border-style: solid;
+	padding: 0%;
+	margin: 0%;
+}
+
+img
+{
+	display: block; 
+	margin: auto;
+	width: 27%;
+}
