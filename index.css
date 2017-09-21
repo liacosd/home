@@ -35,8 +35,8 @@ img
 	margin: 0 auto;
 }
 
-.Photo
+
+.center
 {
-	width: 1350;
-	length: 200;
+	text-align: center;
 }
