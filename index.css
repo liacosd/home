@@ -40,3 +40,14 @@ img
 	text-align: center;
 	font-size: 14pt;
 }
+
+p
+{
+	text-align: justify;
+	font-size: 13pt;
+}
+
+.list
+{
+	color: darkslateblue;
+}
