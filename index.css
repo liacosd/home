@@ -7,7 +7,7 @@ body
 h1
 {
 	text-align: center;
-	font-family: Georgia, Verdana, Arial, sans-serif;
+	font-family: Bookman, Georgia, Verdana, Arial, sans-serif;
 	color: midnightblue;
 	font-size: 32pt;
 	line-height: 18pt;
@@ -29,7 +29,7 @@ h3
 	color: royalblue;
 }
 
-img
+.image
 {
 	display: block;
 	margin: 0 auto;
@@ -50,4 +50,9 @@ p
 .list
 {
 	color: darkslateblue;
+}
+
+.multiple
+{
+	text-align: justify;
 }
