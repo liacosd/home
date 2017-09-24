@@ -1,22 +1,28 @@
 body
 {
-	background-color: lightblue;
 	font-family: Georgia, sans-serif;
+	color: white;
+	background-image: url("colourful.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-color: lightblue;
 }
 
 h1
 {
 	text-align: center;
 	font-family: Bookman, Georgia, Verdana, Arial, sans-serif;
-	color: midnightblue;
+	color: blue;
 	font-size: 32pt;
 	line-height: 18pt;
 	text-shadow: 4px 3px white;
 }
+/* In the first heading, I added various fonts to display here, just in case the primary font is unavailable, there are other stunning fonts to enjoy. */
 
 h2
 {
-	color: navy;
+	color: rgb(77, 179, 179);
 	font-size: 24pt; 
 	line-height: 11pt;
 	font-family: Verdana;
@@ -26,7 +32,7 @@ h3
 { 
 	font-size: 16pt;
 	line-height: 10pt;
-	color: royalblue;
+	color: rgb(0, 245, 245);
 }
 
 .image
@@ -49,10 +55,18 @@ p
 
 .list
 {
-	color: darkslateblue;
+	color: rgb(0, 215, 194);
 }
 
 .multiple
 {
 	text-align: justify;
 }
+
+.return
+{
+	text-align: center;
+	font-size: 30pt;
+}
+
+/* I gave multiple elements class selectors to format elements individually, as I did not want all images to be centered, or I did not want all 3rd headings to be formatted a specific way. */
