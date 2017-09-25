@@ -18,7 +18,7 @@ h2
     font-family: Georgia, sans-serif;
     font-size: 24pt;
     line-height: 13pt;
-    color: rgb(26, 45, 235);
+    color: rgb(0, 0, 179);
 }
 
 h3
@@ -34,6 +34,7 @@ h4
     font-family: "Arial Black", sans-serif;
     font-size: 14pt;
     line-height: 5pt;
+    color: rgb(77, 77, 255);
 }
 
 p
