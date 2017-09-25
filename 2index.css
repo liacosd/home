@@ -1,5 +1,71 @@
-.Music
+body
 {
-	text-align: center;
-	color: lightblue;
+    background-color: lightcyan;
+}
+
+h1
+{
+    font-size: 40pt;
+    line-height: 14pt;
+    font-family: Trebuchet, Bookman, Georgia, Verdana, sans-serif;
+    color: darkblue;
+    text-align: center;
+    text-shadow: 5px 5px rgb(0, 225, 255);
+}
+
+h2
+{
+    font-family: Georgia, sans-serif;
+    font-size: 24pt;
+    line-height: 13pt;
+    color: rgb(26, 45, 235);
+}
+
+h3
+{
+    font-family: Verdana, sans-serif;
+    font-size: 18pt;
+    line-height: 13pt;
+    color: rgb(0, 175, 245);
+}
+
+h4
+{
+    font-family: "Arial Black", sans-serif;
+    font-size: 14pt;
+    line-height: 5pt;
+}
+
+p
+{
+    font-family: Helvetica, sans-serif;
+    font-size: 12pt;
+    line-height: 15pt;
+}
+
+ul
+{
+    font-size: 14pt;
+}
+
+:link
+{
+    color: deepskyblue;
+}
+
+a:visited
+{
+    color: red;
+}
+
+.career
+{
+    display: block;
+	margin: 0 auto;
+}
+
+.return
+{
+    font-size: 18pt;
+    text-align: center;
 }
