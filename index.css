@@ -33,7 +33,7 @@ h3
 	color: rgb(236, 236, 19);
 	font-size: 16pt;
 	line-height: 10pt;
-	color: rgb (0, 245, 245);
+	color: rgb(0, 245, 245);
 }
 
 .image
@@ -42,7 +42,7 @@ h3
 	margin: 0 auto;
 }
 
-.images
+#images
 {
     display: block;
 	margin: 0 auto;
@@ -57,7 +57,7 @@ h3
 
 a:link
 {
-    color: rgb(255, 51, 51;
+    color: rgb(255, 51, 51);
 }
 
 a:visited
